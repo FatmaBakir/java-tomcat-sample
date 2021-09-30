@@ -7,5 +7,6 @@
    <h3> Additional update... </h3>
   <h3> post-build.... </h3>
     <h3> pipeline calisti... </h3>
+      <h3> production servera deploy ediyoruz... </h3>
 </body>
 </html>
